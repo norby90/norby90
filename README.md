@@ -1,6 +1,6 @@
 # 👾 n0rby90’s Code Vault  
 
-> “No systeam is safe”
+> “No system is safe”
 
 ---
 
